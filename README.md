@@ -1,4 +1,4 @@
-# 🎵 Self-Hosted Music Streaming App
+# 🎵 Nano - a self-hosted music streaming app
 
 A modern, self-hosted music streaming platform built with Next.js that lets you stream your personal music collection from anywhere. Think Spotify, but for your own music files.
 
