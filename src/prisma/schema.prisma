@@ -1,8 +1,0 @@
-model Song {
-  id       String @id @default(cuid())
-  title    String
-  artist   String
-  album    String?
-  filePath String
-  duration Int?
-}
